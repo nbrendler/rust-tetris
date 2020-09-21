@@ -16,6 +16,10 @@ tests for it. I would not use that as a reference ;)
 cargo test
 ```
 
+Originally had audio as well, so you will see some references and dependencies
+for dealing with that. I removed the audio files as I couldn't remember where
+they're from and not sure how they are licensed.
+
 ## License
 
 Code is [MIT](./LICENSE).
